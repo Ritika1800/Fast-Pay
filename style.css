@@ -598,3 +598,27 @@ body{
     padding:2rem 0;
   }
 }
+
+@media (max-width: 616px){
+  .home img{
+    height: 400px;
+    width: 500px;
+
+  }
+}
+
+@media (max-width: 520px){
+  .home img{
+    height: 400px;
+    width: 400px;
+
+  }
+}
+
+@media (max-width: 420px){
+  .home img{
+    height: 400px;
+    width: 250px;
+
+  }
+}
